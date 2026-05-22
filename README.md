@@ -257,9 +257,4 @@ The notification service is invoked via gRPC when an alert crosses an escalation
 
 ---
 
-## 📄 License
 
-
-Done
-
-You are out 
